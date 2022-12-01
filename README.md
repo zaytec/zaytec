@@ -24,7 +24,8 @@
 
 - 📫 How to reach me **akshatkishore04@gmail.com**
 
-- ⚡ Fun fact **I have a great music taste**
+- ⚡ weeb 🍣🍙🍡🍥
+
 
 
 
