@@ -51,9 +51,13 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaytec&" alt="zaytec" /></p>
-
-
-<img src ="https://imgs.search.brave.com/5NHWCvRylzssVWdPNk4_IXME4iGkLCWr6yEBkF5Kbc4/rs:fit:570:692:1/g:ce/aHR0cHM6Ly9pbWcw/LmV0c3lzdGF0aWMu/Y29tLzEzMi8wLzEw/MjU0NTE1L2lsXzU3/MHhOLjk4OTc4NTkw/Ml9kYno4LmpwZw">
+   
+   
+   
+   
+   
+   
+   
 
 
 
